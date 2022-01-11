@@ -5,7 +5,7 @@ from bs4 import BeautifulSoup
 def LineNotify(date):
     #==================================================================================
     #LINEのトークン
-    TOKEN= "haEUzrkL7frUJLadWeF1HCUvL3C132I9m58jNWXWmLY"
+    TOKEN= ""
     #==================================================================================
 
     #LineAPIのURL
